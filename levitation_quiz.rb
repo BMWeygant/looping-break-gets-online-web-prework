@@ -5,4 +5,5 @@ def levitation_quiz
   break if answer == "Wingardium Leviosa"
 end
 end
-levitation_quiz
+
+#levitation_quiz
